@@ -2,13 +2,17 @@
 
 Welcome to my Software Quality Assurance portfolio.
 
-I am currently working as an Assistant IT Officer and transitioning into Software Quality Assurance. My hands-on QA experience comes from structured QA training at a1qa, where I performed manual testing on a commercial Web, Desktop, and Android application.
+I am an Assistant IT Officer transitioning into Software Quality Assurance. My hands-on QA experience comes from structured training at a1qa, where I performed manual testing on a commercial Web, Desktop, and Android application.
 
-This portfolio showcases anonymized QA documentation from that training, along with personal practice projects that I am building as I continue developing my QA skills.
+This portfolio contains anonymized QA documentation from that training, along with personal practice projects that I will continue adding as I develop my automation testing skills.
 
-> **Note:** The commercial application used during training is protected by a Non-Disclosure Agreement (NDA). All confidential information has been removed or replaced with placeholders.
+> **Note:** All confidential information has been removed or replaced in accordance with a Non-Disclosure Agreement (NDA).
 
-## Structured QA Training (Actual Experience)
+---
+
+# Portfolio
+
+## Structured QA Training
 
 The following repositories are based on work completed during structured QA training on a commercial application.
 
@@ -18,21 +22,43 @@ The following repositories are based on work completed during structured QA trai
 | [Sample Bug Reports](https://github.com/MrShabbir01/sample-bug-reports) | Anonymized desktop and mobile bug reports documented in Jira. | Defect Reporting, Jira |
 | [Sample Quality Report](https://github.com/MrShabbir01/sample-quality-report) | QA report summarizing testing results and product quality. | QA Documentation, Reporting |
 
-
-
 ---
 
 ## Personal Practice
 
-This section will expand as I continue building public QA projects.
-
-Planned additions include:
+The following repositories are currently in development:
 
 - Selenium WebDriver Automation
 - API Testing with Postman
 - Manual Testing Project (Public Application)
 
 ---
+
+
+# Technical Skills
+
+**Testing:** Manual Testing, Functional Testing, Regression Testing, Smoke Testing, Exploratory Testing
+
+**Tools:** Jira, Postman, Git, GitHub
+
+**Documentation:** Bug Reports, Test Surveys, Quality Reports
+
+**Currently Learning:** Selenium WebDriver
+
+---
+
+# NDA Notice
+
+The commercial application used during my QA training is protected by a Non-Disclosure Agreement (NDA).
+
+To comply with this agreement:
+
+- Application names have been removed or replaced with placeholders.
+- Client information has been removed.
+- Internal identifiers have been anonymized.
+- Proprietary screenshots and source code are not included.
+
+The published documents accurately represent my QA work while protecting confidential information.
 
 # Connect With Me
 

@@ -36,13 +36,13 @@ The following repositories are currently in development:
 ## Technical Skills
 
 **Manual Testing:** Functional Testing, Regression Testing, Smoke Testing, Exploratory Testing, Test Execution<br>
-**API Testing:** Postman, API Response Validation, API Test Automation, Newman<br>
+**API Testing:** Postman, API Test Automation<br>
 **UI Automation:** Playwright, Selenium WebDriver<br>
-**Programming & Runtime:** JavaScript, Node.js<br>
+**Programming & Runtime:** JavaScript, Node.js, Python<br>
 **Defect Management:** Jira, Bug Reporting, Defect Tracking<br>
 **Version Control:** Git, GitHub<br>
-**QA Documentation:** Test Surveys, Bug Reports, Quality Reports, Acceptance Sheets<br>
-**AI-Assisted Workflows:** Claude, Claude Code, Postman AI
+**QA Documentation:** Test Case, Test Surveys, Bug Reports, Quality Reports, Acceptance Sheets<br>
+**AI-Assisted Workflows:** Claude, Claude Code, Olama
 
 ---
 

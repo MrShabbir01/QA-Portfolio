@@ -2,9 +2,9 @@
 
 Welcome to my Software Quality Assurance portfolio.
 
-I am an Assistant IT Officer transitioning into Software Quality Assurance. My hands-on QA experience comes from structured training at a1qa, where I performed manual testing on a commercial Web, Desktop, and Android application.
+I am an entry-level SQA professional with hands-on manual testing experience gained through structured QA training at A1QA, where I tested a commercial web, desktop, and Android application. I have also completed Software QA Automation training at Ostad, gaining practical experience in UI automation with Playwright and API testing using ReqRes and Newman.
 
-This portfolio contains anonymized QA documentation from that training, along with personal practice projects that I will continue adding as I develop my automation testing skills.
+This portfolio contains anonymized QA documentation from my A1QA training, automation projects completed through my Ostad training, and personal practice projects that I will continue adding as I develop my automation testing skills.
 
 > **Note:** All confidential information has been removed or replaced in accordance with a Non-Disclosure Agreement (NDA).
 
